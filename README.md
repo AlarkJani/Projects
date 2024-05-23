@@ -212,7 +212,7 @@ void sendDataToServer(String binID, int distance, String longitude, String latit
 ## Usage
 1. Run the system:
    - Power the ESP32 and ensure it connects to your WiFi network.
-   - Monitor the Blynk dashboard for real-time updates on the bin status.
+   - Monitor the dashboard for real-time updates on the bin status.
 
 2. LED Indicators:
    - Green LED: Bin is mostly empty.
